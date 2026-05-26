@@ -1,0 +1,409 @@
+{
+    "data.json": {
+        "test_case_file": "data.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 2,
+                "total_distance": 137.21,
+                "efficiency": 68.61,
+                "total_delay": 16
+            },
+            "A2": {
+                "packages_delivered": 2,
+                "total_distance": 91.21,
+                "efficiency": 45.6,
+                "total_delay": 12
+            },
+            "A3": {
+                "packages_delivered": 1,
+                "total_distance": 22.14,
+                "efficiency": 22.14,
+                "total_delay": 8
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A3"
+        }
+    },
+    "test_case_1.json": {
+        "test_case_file": "test_case_1.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 4,
+                "total_distance": 102.83,
+                "efficiency": 25.71,
+                "total_delay": 27
+            },
+            "A2": {
+                "packages_delivered": 1,
+                "total_distance": 40.16,
+                "efficiency": 40.16,
+                "total_delay": 6
+            },
+            "A3": {
+                "packages_delivered": 7,
+                "total_distance": 230.93,
+                "efficiency": 32.99,
+                "total_delay": 46
+            },
+            "A4": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A1"
+        }
+    },
+    "test_case_10.json": {
+        "test_case_file": "test_case_10.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A2": {
+                "packages_delivered": 2,
+                "total_distance": 51.1,
+                "efficiency": 25.55,
+                "total_delay": 13
+            },
+            "A3": {
+                "packages_delivered": 3,
+                "total_distance": 168.89,
+                "efficiency": 56.3,
+                "total_delay": 17
+            },
+            "A4": {
+                "packages_delivered": 6,
+                "total_distance": 106.55,
+                "efficiency": 17.76,
+                "total_delay": 29
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A4"
+        }
+    },
+    "test_case_2.json": {
+        "test_case_file": "test_case_2.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 7,
+                "total_distance": 218.06,
+                "efficiency": 31.15,
+                "total_delay": 34
+            },
+            "A2": {
+                "packages_delivered": 3,
+                "total_distance": 82.98,
+                "efficiency": 27.66,
+                "total_delay": 13
+            },
+            "A3": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A2"
+        }
+    },
+    "test_case_3.json": {
+        "test_case_file": "test_case_3.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A2": {
+                "packages_delivered": 2,
+                "total_distance": 90.36,
+                "efficiency": 45.18,
+                "total_delay": 15
+            },
+            "A3": {
+                "packages_delivered": 3,
+                "total_distance": 77.95,
+                "efficiency": 25.98,
+                "total_delay": 17
+            },
+            "A4": {
+                "packages_delivered": 1,
+                "total_distance": 32.23,
+                "efficiency": 32.23,
+                "total_delay": 9
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A3"
+        }
+    },
+    "test_case_4.json": {
+        "test_case_file": "test_case_4.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 3,
+                "total_distance": 84.96,
+                "efficiency": 28.32,
+                "total_delay": 15
+            },
+            "A2": {
+                "packages_delivered": 3,
+                "total_distance": 78.17,
+                "efficiency": 26.06,
+                "total_delay": 9
+            },
+            "A3": {
+                "packages_delivered": 6,
+                "total_distance": 174.77,
+                "efficiency": 29.13,
+                "total_delay": 37
+            },
+            "A4": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A5": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A2"
+        }
+    },
+    "test_case_5.json": {
+        "test_case_file": "test_case_5.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A2": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A3": {
+                "packages_delivered": 5,
+                "total_distance": 131.04,
+                "efficiency": 26.21,
+                "total_delay": 22
+            },
+            "A4": {
+                "packages_delivered": 5,
+                "total_distance": 189.52,
+                "efficiency": 37.9,
+                "total_delay": 26
+            },
+            "A5": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A3"
+        }
+    },
+    "test_case_6.json": {
+        "test_case_file": "test_case_6.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 1,
+                "total_distance": 29.26,
+                "efficiency": 29.26,
+                "total_delay": 8
+            },
+            "A2": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A3": {
+                "packages_delivered": 4,
+                "total_distance": 111.56,
+                "efficiency": 27.89,
+                "total_delay": 29
+            },
+            "A4": {
+                "packages_delivered": 4,
+                "total_distance": 121.12,
+                "efficiency": 30.28,
+                "total_delay": 22
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A3"
+        }
+    },
+    "test_case_7.json": {
+        "test_case_file": "test_case_7.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A2": {
+                "packages_delivered": 1,
+                "total_distance": 47.66,
+                "efficiency": 47.66,
+                "total_delay": 10
+            },
+            "A3": {
+                "packages_delivered": 6,
+                "total_distance": 148.44,
+                "efficiency": 24.74,
+                "total_delay": 43
+            },
+            "A4": {
+                "packages_delivered": 3,
+                "total_distance": 75.28,
+                "efficiency": 25.09,
+                "total_delay": 14
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A3"
+        }
+    },
+    "test_case_8.json": {
+        "test_case_file": "test_case_8.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 1,
+                "total_distance": 31.24,
+                "efficiency": 31.24,
+                "total_delay": 6
+            },
+            "A2": {
+                "packages_delivered": 5,
+                "total_distance": 139.45,
+                "efficiency": 27.89,
+                "total_delay": 38
+            },
+            "A3": {
+                "packages_delivered": 5,
+                "total_distance": 138.17,
+                "efficiency": 27.63,
+                "total_delay": 26
+            },
+            "A4": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A_NEW": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "best_agent": "A3"
+        }
+    },
+    "test_case_9.json": {
+        "test_case_file": "test_case_9.json",
+        "status": "success",
+        "report": {
+            "A1": {
+                "packages_delivered": 3,
+                "total_distance": 79.9,
+                "efficiency": 26.63,
+                "total_delay": 19
+            },
+            "A2": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A3": {
+                "packages_delivered": 3,
+                "total_distance": 98.93,
+                "efficiency": 32.98,
+                "total_delay": 8
+            },
+            "A4": {
+                "packages_delivered": 0,
+                "total_distance": 0,
+                "efficiency": 0,
+                "total_delay": 0
+            },
+            "A_NEW": {
+                "packages_delivered": 2,
+                "total_distance": 44.38,
+                "efficiency": 22.19,
+                "total_delay": 13
+            },
+            "best_agent": "A_NEW"
+        }
+    }
+}
