@@ -78,7 +78,7 @@ contain all the testcase file in json format
 
 ### To Optimize It:
 1. Use Spatial Indexing
-    ###code snippet:
+    ### code snippet:
 
       from scipy.spatial import KDTree
 
