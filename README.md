@@ -76,6 +76,20 @@ contain all the testcase file in json format
 ## Time Complexity Analysis:
 - Overall simulation complexity: O(P × A)
 
-### How to Optimize It:
+### To Optimize It:
 1. Use Spatial Indexing
+    ###code snippet:
+
+      from scipy.spatial import KDTree
+
+      agent_ids = list(agents.keys())
+      agent_points = list(agents.values())
+      tree = KDTree(agent_points)
+    
+      def find_nearest_agent(warehouse_location):
+
+      distance, index = tree.query(warehouse_location)
+
+      return agent_ids[index]
+
 2. Grid-Based Bucketing
